@@ -1,0 +1,17 @@
+body {
+  margin: 30px;
+  text-align: left;
+}
+
+h1 {
+  text-align: center;
+}
+
+.challenge {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
